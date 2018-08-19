@@ -1,3 +1,3 @@
-define(['common','juicer','jquery'],function(Common,Juicer,$){
-	
+define(['common','juicer','DateUtils','NanoScroll'],function(Common,Juicer,xcp){
+	console.log($(".nano").nanoScroller);
 })
